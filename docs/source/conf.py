@@ -42,7 +42,6 @@ extensions = [
 'sphinx.ext.autosummary',
 'sphinx.ext.napoleon',
 'sphinx.ext.coverage',
-'sphinx_rtd_theme',
 ]
 
 
